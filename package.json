@@ -1,0 +1,22 @@
+{
+  "name": "playcanvas-vector-extensions",
+  "version": "1.0.0",
+  "description": "PlayCanvas extension to pc.Vec3 to add inline chainable functions to add or set the X,Y,Z elements of a vector",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whydoidoit/vector-extensions.git"
+  },
+  "keywords": [
+    "PlayCanvas"
+  ],
+  "author": "Mike Talbot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whydoidoit/vector-extensions/issues"
+  },
+  "homepage": "https://github.com/whydoidoit/vector-extensions#readme"
+}
